@@ -1,5 +1,6 @@
 ### This is the repository for quera course fundamentals of programming and algorithmic thinking.
 
+
 All questions and answers are in this repo and they are getting completed.
 The solutions are in python language.
 Star the repo or clone it to get the better use of these solutions.
