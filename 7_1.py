@@ -1,3 +1,4 @@
+# سوال : تو چقدر اضافه وزن داری؟
 weight = int(input())
 height = float(input())
 
