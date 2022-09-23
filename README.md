@@ -39,6 +39,11 @@ Question| question title | solved Y/N
 [8_13.py](https://github.com/hardbucket/quera-repo/blob/main/8_13.py "8_13.py")||Y
 [8_14.py](https://github.com/hardbucket/quera-repo/blob/main/8_14.py "8_14.py")||Y
 [8_15.py](https://github.com/hardbucket/quera-repo/blob/main/8_15.py "8_15.py")||Y
-
-
-
+[9_1.py](https://github.com/hardbucket/quera-repo/blob/main/9_1.py "9_1.py")||Y
+[9_2.py](https://github.com/hardbucket/quera-repo/blob/main/9_2.py "9_2.py")||Y
+[9_3.py](https://github.com/hardbucket/quera-repo/blob/main/9_3.py "9_3.py")||Y
+[9_4.py](https://github.com/hardbucket/quera-repo/blob/main/9_4.py "9_4.py")||Y
+[9_5.py](https://github.com/hardbucket/quera-repo/blob/main/9_5.py "9_5.py")||Y
+[9_6.py](https://github.com/hardbucket/quera-repo/blob/main/9_6.py "9_6.py")||Y
+[9_7.py](https://github.com/hardbucket/quera-repo/blob/main/9_7.py "9_7.py")||Y
+[9_8.py](https://github.com/hardbucket/quera-repo/blob/main/9_8.py "9_8.py")||Y
