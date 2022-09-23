@@ -11,17 +11,34 @@ Note: These solutions are for those, spent enough time and felt stuck. Avoid cop
 اگر احساس کردید که زمان زیادی روی یک مسئله گیر کردید از این جوابها استفاده کنید وسعی کنید کپی و پیست نکنید و فقط ایده بگیرید. تا یادگیری بهتری داشته باشید و نهایت استفاده رو ببرید.
 
 
-Question| question title | solved / unsolved
+
+Question| question title | solved Y/N
 ------------ | ------------|------------ 
-[7_1.py](https://github.com/hardbucket/quera-repo/blob/main/7_1.py "7_1.py")|
-[7_2.py](https://github.com/hardbucket/quera-repo/blob/main/7_2.py "7_2.py")|
-[7_3.py](https://github.com/hardbucket/quera-repo/blob/main/7_3.py "7_3.py")|
-[7_4.py](https://github.com/hardbucket/quera-repo/blob/main/7_4.py "7_4.py")|
-[7_5.py](https://github.com/hardbucket/quera-repo/blob/main/7_5.py "7_5.py")|
-[7_6.py](https://github.com/hardbucket/quera-repo/blob/main/7_6.py "7_6.py")|
-[7_7.py](https://github.com/hardbucket/quera-repo/blob/main/7_7.py "7_7.py")|
-[7_8.py](https://github.com/hardbucket/quera-repo/blob/main/7_8.py "7_8.py")|
-[7_9.py](https://github.com/hardbucket/quera-repo/blob/main/7_9.py "7_9.py")|
-[7_10.py](https://github.com/hardbucket/quera-repo/blob/main/7_10.py "7_10.py")|
+[7_1.py](https://github.com/hardbucket/quera-repo/blob/main/7_1.py "7_1.py")||Y
+[7_2.py](https://github.com/hardbucket/quera-repo/blob/main/7_2.py "7_2.py")||Y
+[7_3.py](https://github.com/hardbucket/quera-repo/blob/main/7_3.py "7_3.py")||Y
+[7_4.py](https://github.com/hardbucket/quera-repo/blob/main/7_4.py "7_4.py")||Y
+[7_5.py](https://github.com/hardbucket/quera-repo/blob/main/7_5.py "7_5.py")||Y
+[7_6.py](https://github.com/hardbucket/quera-repo/blob/main/7_6.py "7_6.py")||Y
+[7_7.py](https://github.com/hardbucket/quera-repo/blob/main/7_7.py "7_7.py")||Y
+[7_8.py](https://github.com/hardbucket/quera-repo/blob/main/7_8.py "7_8.py")||Y
+[7_9.py](https://github.com/hardbucket/quera-repo/blob/main/7_9.py "7_9.py")||Y
+[7_10.py](https://github.com/hardbucket/quera-repo/blob/main/7_10.py "7_10.py")||Y
+[8_1.py](https://github.com/hardbucket/quera-repo/blob/main/8_1.py "8_1.py")||Y
+[8_2.py](https://github.com/hardbucket/quera-repo/blob/main/8_2.py "8_2.py")||Y
+[8_3.py](https://github.com/hardbucket/quera-repo/blob/main/8_3.py "8_3.py")||Y
+[8_4.py](https://github.com/hardbucket/quera-repo/blob/main/8_4.py "8_4.py")||Y
+[8_5.py](https://github.com/hardbucket/quera-repo/blob/main/8_5.py "8_5.py")||Y
+[8_6.py](https://github.com/hardbucket/quera-repo/blob/main/8_6.py "8_6.py")||Y
+[8_7.py](https://github.com/hardbucket/quera-repo/blob/main/8_7.py "8_7.py")||Y
+[8_8.py](https://github.com/hardbucket/quera-repo/blob/main/8_8.py "8_8.py")||Y
+[8_9.py](https://github.com/hardbucket/quera-repo/blob/main/8_9.py "8_9.py")||Y
+[8_10.py](https://github.com/hardbucket/quera-repo/blob/main/8_10.py "8_10.py")||Y
+[8_11.py](https://github.com/hardbucket/quera-repo/blob/main/8_11.py "8_11.py")||Y
+[8_12.py](https://github.com/hardbucket/quera-repo/blob/main/8_12.py "8_12.py")||Y
+[8_13.py](https://github.com/hardbucket/quera-repo/blob/main/8_13.py "8_13.py")||Y
+[8_14.py](https://github.com/hardbucket/quera-repo/blob/main/8_14.py "8_14.py")||Y
+[8_15.py](https://github.com/hardbucket/quera-repo/blob/main/8_15.py "8_15.py")||Y
+
 
 
