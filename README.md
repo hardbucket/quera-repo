@@ -12,7 +12,7 @@ Note: These solutions are for those, spent enough time and felt stuck. Avoid cop
 
 
 
-Question| question title | solved Y/N
+Question| question title | solved Python Y/N
 ------------ | ------------|------------ 
 [7_1.py](https://github.com/hardbucket/quera-repo/blob/main/7_1.py "7_1.py")||Y
 [7_2.py](https://github.com/hardbucket/quera-repo/blob/main/7_2.py "7_2.py")||Y
@@ -47,3 +47,8 @@ Question| question title | solved Y/N
 [9_6.py](https://github.com/hardbucket/quera-repo/blob/main/9_6.py "9_6.py")||Y
 [9_7.py](https://github.com/hardbucket/quera-repo/blob/main/9_7.py "9_7.py")||Y
 [9_8.py](https://github.com/hardbucket/quera-repo/blob/main/9_8.py "9_8.py")||Y
+[10_1.py](https://github.com/hardbucket/quera-repo/blob/main/10_1.py "10_1.py")||Y
+[10_2.py](https://github.com/hardbucket/quera-repo/blob/main/10_2.py "10_2.py")||Y
+[10_3.py](https://github.com/hardbucket/quera-repo/blob/main/10_3.py "10_3.py")||Y
+[10_4.py](https://github.com/hardbucket/quera-repo/blob/main/10_4.py "10_4.py")||Y
+[10_5.py](https://github.com/hardbucket/quera-repo/blob/main/10_5.py "10_5.py")||Y
