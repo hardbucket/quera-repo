@@ -54,3 +54,13 @@ Question| question title | solved Python Y/N
 [10_3.py](https://github.com/hardbucket/quera-repo/blob/main/10_3.py "10_3.py")|مرتب کن! تمرین|Y
 [10_4.py](https://github.com/hardbucket/quera-repo/blob/main/10_4.py "10_4.py")|چالش شنگدباو تمرین|Y
 [10_5.py](https://github.com/hardbucket/quera-repo/blob/main/10_5.py "10_5.py")|مرتب‌سازی خفن! تمرین|Y
+ ||📒 فصل 11:  توابع بازگشتی
+[11_1.py](https://github.com/hardbucket/quera-repo/blob/main/11_1.py "11_1.py")| دنباله‌ی ساده تمرین|Y
+[11_2.py](https://github.com/hardbucket/quera-repo/blob/main/11_2.py "11_2.py")|دیباگ و بی‌باگ درس‌نامه|N
+[11_3.py](https://github.com/hardbucket/quera-repo/blob/main/11_3.py "11_3.py")|رشته فیبوناچی تمرین|Y
+[11_4.py](https://github.com/hardbucket/quera-repo/blob/main/11_4.py "11_4.py")|سِصِفر تمرین|N
+[11_5.py](https://github.com/hardbucket/quera-repo/blob/main/11_5.py "11_5.py")|چاپ برعکس تمرین|N
+[11_6.py](https://github.com/hardbucket/quera-repo/blob/main/11_6.py "11_6.py")|چیدمان تمرین|N
+[11_7.py](https://github.com/hardbucket/quera-repo/blob/main/11_7.py "11_7.py")|برج‌های هانوی تمرین|N
+[11_8.py](https://github.com/hardbucket/quera-repo/blob/main/11_8.py "11_8.py")|مثلث خیام پاسکال تمرین|N
+[11_9.py](https://github.com/hardbucket/quera-repo/blob/main/11_9.py "11_9.py")|جست‌وجوی دودویی تمرین|Y
